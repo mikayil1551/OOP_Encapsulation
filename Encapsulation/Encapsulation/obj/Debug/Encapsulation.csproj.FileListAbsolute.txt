@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
